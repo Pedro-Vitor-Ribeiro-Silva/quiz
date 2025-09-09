@@ -1,0 +1,83 @@
+{
+  "quiz1": [
+    {
+      "question": "Quem construiu a arca para escapar do dilúvio?",
+      "options": ["Moisés", "Noé", "Abraão", "Davi"],
+      "correctAnswer": "Noé"
+    },
+    {
+      "question": "Quantos dias Jesus jejuou no deserto?",
+      "options": ["30", "7", "21", "40"],
+      "correctAnswer": "40"
+    },
+    {
+      "question": "Qual discípulo negou Jesus três vezes antes do galo cantar?",
+      "options": ["João", "Pedro", "Tiago", "Tomé"],
+      "correctAnswer": "Pedro"
+    },
+    {
+      "question": "Qual foi o primeiro milagre de Jesus registrado na Bíblia?",
+      "options": ["Curar um cego", "Andar sobre as águas", "Transformar água em vinho", "Multiplicar pães e peixes"],
+      "correctAnswer": "Transformar água em vinho"
+    },
+    {
+      "question": "Quem foi lançado na cova dos leões?",
+      "options": ["Daniel", "José", "Elias", "Paulo"],
+      "correctAnswer": "Daniel"
+    }
+  ],
+  "quiz2": [
+    {
+      "question": "Qual profeta foi engolido por um grande peixe?",
+      "options": ["Jonas", "Isaías", "Jeremias", "Ezequiel"],
+      "correctAnswer": "Jonas"
+    },
+    {
+      "question": "Quem foi o primeiro rei de Israel?",
+      "options": ["Davi", "Saul", "Salomão", "Josias"],
+      "correctAnswer": "Saul"
+    },
+    {
+      "question": "Quem vendeu José como escravo para o Egito?",
+      "options": ["Seus irmãos", "Faraó", "Os filisteus", "O rei de Israel"],
+      "correctAnswer": "Seus irmãos"
+    },
+    {
+      "question": "Quem recebeu os Dez Mandamentos no Monte Sinai?",
+      "options": ["Abraão", "Moisés", "Josué", "Davi"],
+      "correctAnswer": "Moisés"
+    },
+    {
+      "question": "Quem matou Golias?",
+      "options": ["Saul", "Davi", "Elias", "Josué"],
+      "correctAnswer": "Davi"
+    }
+  ],
+  "quiz3": [
+    {
+      "question": "Quem foi chamado de amigo de Deus?",
+      "options": ["Abraão", "Moisés", "Davi", "José"],
+      "correctAnswer": "Abraão"
+    },
+    {
+      "question": "Qual cidade foi destruída por fogo e enxofre por desobedecer a Deus?",
+      "options": ["Jericó", "Nínive", "Sodoma", "Babilônia"],
+      "correctAnswer": "Sodoma"
+    },
+    {
+      "question": "Quem construiu o Templo de Jerusalém?",
+      "options": ["Davi", "Salomão", "Moisés", "Josué"],
+      "correctAnswer": "Salomão"
+    },
+    {
+      "question": "Quem foi levado ao céu sem morrer?",
+      "options": ["Elias", "Enoque", "Moisés", "João Batista"],
+      "correctAnswer": "Elias"
+    },
+    {
+      "question": "Quem interpretou os sonhos do faraó no Egito?",
+      "options": ["José", "Moisés", "Elias", "Daniel"],
+      "correctAnswer": "José"
+    }
+  ]
+}
