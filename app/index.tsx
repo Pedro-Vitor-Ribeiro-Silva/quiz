@@ -4,6 +4,8 @@ import ResultScreen from "../components/ResultScreen";
 import HomeScreen from "../components/HomeScreen";
 import questionsData from "../questions.json";
 
+import { Vibration } from "react-native";
+
 // Tipos
 type Question = {
   question: string;
@@ -49,6 +51,9 @@ export default function HomePage() {
     if (!currentQuestion) return;
     if (option === currentQuestion.correctAnswer) {
       setScore(score + 1);
+    }
+    if (option !== currentQuestion.correctAnswer) {
+      Vibration.vibrate(200); // vibra por 50ms
     }
     setSelectedOption(option);
     setIsOptionsDisabled(true);

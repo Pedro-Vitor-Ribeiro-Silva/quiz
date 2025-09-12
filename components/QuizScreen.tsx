@@ -67,6 +67,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#f0f8ff",
     padding: 20,
     alignItems: "center",
+    justifyContent: "center"
   },
   quizTitle: {
     fontSize: 48,
