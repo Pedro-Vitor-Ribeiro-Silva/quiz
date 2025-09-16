@@ -41,7 +41,7 @@ O projeto está organizado da seguinte maneira:
 Para rodar este projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**  
-   git clone \<URL\_DO\_SEU\_REPOSITORIO\>
+   git clone \<URL\_DO\_REPOSITORIO\>
 
 2. **Acesse o diretório do projeto:**  
    cd quiz
